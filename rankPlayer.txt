@@ -1,0 +1,40 @@
+huy,5,36,88.7786,65
+danghuy,5,44,182.865,5
+huanMCK,5,48,233.826,-25
+danghuy,4,15,24.8996,100
+VoGiaHuan,4,19,60,92
+leminhtan,4,23,75.4476,48
+conbo,4,23,81.24,48
+bap123,3,7,9.72555,100
+conchimnon,3,7,10.2745,100
+HuynhThienHao,3,7,60,100
+Huy,3,7,5,100
+huynhthienhaook,3,7,15.8412,100
+huyhs,3,7,13.0472,100
+caibanhxeo,3,7,9.31034,100
+huynh thien hao,3,7,9.36023,100
+haha],3,7,9.45039,100
+hahahiii,3,7,7.54872,100
+huynhjjdl,3,7,9.02191,100
+HAHAH,3,7,14.5083,100
+hahaha,3,7,9.59524,100
+shinichi,3,7,23.8803,98
+HEHE,3,7,17.2603,98
+HUYNHB,3,7,21.5881,98
+bag,3,7,17.406,98
+hahh,3,7,27.0445,96
+ere,3,8,11.5328,95
+jaj,3,8,9.83005,95
+hello,3,8,24.723,93
+NguyenVanHuy,3,16,90,91
+CaoDangHuy,3,15,89,90
+TranVanHuy,3,20,76,89
+hahahihi,3,9,24.5873,88
+shishik,2,3,6.75811,100
+haha,2,3,9.32551,100
+haoht,2,3,4.16206,100
+shish,2,3,6.75811,100
+anh hung liem ca mau,2,4,7.69867,95
+anh mau,2,4,7.69867,95
+anh liem ca mau,2,4,7.69867,95
+HUYNH THIEN HAO,0,1,2.01008,95
